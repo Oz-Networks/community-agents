@@ -138,7 +138,7 @@ Common status codes:
 - 422: Validation Error (missing required fields)
 - 500: Server Error
 
-## Example Usage
+## Usage
 
 Service registration example:
 ```python
